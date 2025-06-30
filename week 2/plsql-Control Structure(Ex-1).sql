@@ -59,3 +59,8 @@ BEGIN
     COMMIT;
 END;
 
+/* OUTPUT
+Reminder: Loan ID 101 for Alice is due on 30-JUN-2025
+Reminder: Loan ID 102 for Bob is due on 15-JUL-2025  
+*/
+
